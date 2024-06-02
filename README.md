@@ -1,0 +1,2 @@
+# Machine-Learning-for-Customer-Market-Segmentation
+Customer market segmentation is a critical task that helps businesses understand the diversity of their customers and cater their offerings more precisely. By implementing unsupervised learning, particularly clustering algorithms like K-Means, we aim to discover hidden patterns and groupings in the customer data without prior labeling of the data.
